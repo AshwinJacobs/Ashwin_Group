@@ -1,0 +1,72 @@
+<table1 style="width:100%">
+        <tr>
+          <th> background image</th>
+        </tr>
+        </table>
+        <br> 
+        <table2 style="width:100%">
+        <tr>
+          <td>E-commerce</td>
+          <td>responsive design</td>
+          <td>web security</td>
+          </tr>
+          </table>
+        
+         <table3 style="width:100%"> 
+        <tr>
+          <td>img 1 threads</td>
+          <td>img 2 explore</td>
+          <td>img 3 finish</td>
+        </tr>
+      </table>
+       
+       <table4 style="width:100%"> 
+       <tr>
+       <td>img 4 lines</td>
+       <td>img 5 south west</td>
+       <td>img 6 window</td>
+       
+       </table>
+       <br>
+       <table5  style="width:100%">
+       <tr>
+       <td>humble begginin</td>
+       </tr>
+       <tr>
+       <td>horn</td>
+       </tr>
+       <tr>
+       <td>december 2</td>
+       </tr>
+       <tr>
+       <td>expansion</td>
+       </tr>
+       <tr>
+       <td>our story</td>
+       </tr>
+       </table>
+       <table6 style="width:100%">
+       <tr>
+       <td>parveen Anand </td>
+       <td>diana peterson</td>
+       <td>Larry Parker</td>
+       </tr>
+       </table>
+       <table7 style="width:100%">
+        <tr>
+         <td>SM logos</td>
+         <td>SM logos</td>
+         <td>SM logos</td>
+        </tr> 
+       </table>
+    
+       
+       <table8 style="width:100%">
+       <tr>
+        <td>logo banner</td>
+       </tr>
+       </table>
+       
+       
+      </body>
+      </html>
