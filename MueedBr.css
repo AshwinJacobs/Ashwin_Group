@@ -1,36 +1,43 @@
-.tb1 {
+.table1 {
     background-image: url("background image.jpg");
     width: auto;
     height: 500px;
-}
-.tb2{
-      
-}
-
-.tb3{
 
 }
-
-.tb4{
-
+.table2{
+    align-items: center;
+    margin-left: 250px;  
 }
-.tb5{
+
+.table3{
+    align-items: center;
 
 }
 
-.tb6{
+.table4{
+    align-items: center;
+
+}
+.table5{
+    align-items: center;
+    margin-left: 600px;
 
 }
 
-.tb7{
+.table6{
+    align-items: center;
+    margin-left: 275px;
+
+}
+
+.table7{
+    align-items: center;
+    margin-left: 400px;
     
     
-    
 
 
 }
 
-.tb8{
 
-}
     
